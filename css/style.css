@@ -267,7 +267,7 @@ button:focus,
     background-position : center top;
     }
 
-.header .profile-img:before {
+/*.header .profile-img:before {
     content    : "";
     position   : absolute;
     left       : 0;
@@ -283,7 +283,7 @@ button:focus,
     );
 
     }
-
+*/
 .header .content {
     position : absolute;
     bottom   : 0;
